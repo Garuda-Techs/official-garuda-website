@@ -42,6 +42,11 @@ function EventObject() {
           </h1>
 
           {/* Dropdown */}
+          <div className="flex flex-row justify-between items-center w-full mb-8">
+            <h1 className="text-4xl font-bold text-gray-800">
+              {eventData.yearTitle || baseEvent.title}
+            </h1>
+          </div>
           <div className="flex items-center"> 
             <label htmlFor="year-select" className="mr-2 text-gray-700 font-medium">
             </label>
@@ -50,7 +55,6 @@ function EventObject() {
                   id="year-select"
                   value={selectedYear}
                   onChange={(e) => setSelectedYear(e.target.value)}
-                  // Updated classes: appearance-none hides default arrow, padding-right prevents text overlap
                   className="px-4 pr-10 py-2 rounded-full border border-yellow-500 bg-white shadow-md text-gray-800 font-semibold transition duration-150 ease-in-out hover:border-yellow-600 focus:outline-none focus:ring-4 focus:ring-yellow-300 appearance-none"
                 >
                   {availableYears.map((year) => (

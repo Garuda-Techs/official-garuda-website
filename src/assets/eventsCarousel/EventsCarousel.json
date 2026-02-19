@@ -6,6 +6,7 @@
         "displayImage": "ing2.jpg",
         "years": {
             "AY 24/25": {
+                "yearTitle": "GARU ING",
                 "description": "Been itching to show off your football skills that are Bluelock worthy? Or maybe you just got that deadly backhand in badminton? Together with your fellow Garurudians, take on the other houses in a wide variety of sports and create sick highlights that are sure to boost your reputation.",
                 "images": [ 
                     "ing2.jpg",
@@ -33,31 +34,32 @@
                 "hero": "ing4.jpg" 
             },
             "AY 25/26": {
-                "description": "",
+                "yearTitle": "GARU ING",
+                "description": "Shooting hoops and scoring goals. Trophies are yellow for a reason!",
                 "images": [ 
-                    "",
-                    "",
-                    "",
-                    ""
+                    "2526ing8.JPG",
+                    "2526ing2.jpg",
+                    "2526ing3.JPG",
+                    "2526ing1.jpg"
                 ],
                 "highlights": [ 
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526ing6.JPG",
+                        "title": "Captain's Ball",
                         "description": ""
                     },
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526ing5.JPG",
+                        "title": "Badminton",
                         "description": ""
                     },
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526ing7.JPG",
+                        "title": "Tchoukball",
                         "description": ""
                     }
                 ],
-                "hero": "" 
+                "hero": "2526ing4.jpg" 
             }
         }
     },
@@ -67,67 +69,70 @@
         "displayImage": "image2.png",
         "years": {
             "AY 24/25": {
-            "description": "Garuda x Halloween! Get ready for a spooky night full of suspense, surprises and segues into food and music and well!",
-            "images": [ 
-                "garuween1.jpg",
-                "garuween2.jpg",
-                "garuween3.jpg",
-                "garuween4.jpg"
-            ],
-            "highlights": [ 
-                {
-                    "image": "highlight1.jpg",
-                    "title": "Face Painting",
-                    "description": "Watch your friends do stuff to their face ."
-                },
-                {
-                    "image": "highlight2.jpg",
-                    "title": "Pizza Party",
-                    "description": "We do love some good pizza in here."
-                },
-                {
-                    "image": "highlight3.jpg",
-                    "title": "Fright Night",
-                    "description": "A wild Kurt Tay terrorises the Garudians."
-                }
-            ],
-            "hero": "image2.png" 
-        },
+                "yearTitle": "GARUWEEN",
+                "description": "Garuda x Halloween! Get ready for a spooky night full of suspense, surprises and segues into food and music and well!",
+                "images": [ 
+                    "garuween1.jpg",
+                    "garuween2.jpg",
+                    "garuween3.jpg",
+                    "garuween4.jpg"
+                ],
+                "highlights": [ 
+                    {
+                        "image": "highlight1.jpg",
+                        "title": "Face Painting",
+                        "description": "Watch your friends do stuff to their face ."
+                    },
+                    {
+                        "image": "highlight2.jpg",
+                        "title": "Pizza Party",
+                        "description": "We do love some good pizza in here."
+                    },
+                    {
+                        "image": "highlight3.jpg",
+                        "title": "Fright Night",
+                        "description": "A wild Kurt Tay terrorises the Garudians."
+                    }
+                ],
+                "hero": "image2.png" 
+            },
         "AY 25/26": {
-            "description": "",
+            "yearTitle": "GARUWEEN",
+            "description": "Trick or Treat? Spooky season brings out our finest fashion",
             "images": [ 
-                "",
-                "",
-                "",
-                ""
+                "2526garuween1.JPG",
+                "2526garuween4.JPG",
+                "2526garuween8.JPG",
+                "2526garuween3.JPG"
             ],
             "highlights": [ 
                 {
-                    "image": "",
+                    "image": "2526garuween6.JPG",
                     "title": "",
                     "description": ""
                 },
                 {
-                    "image": "",
+                    "image": "2526garuween2.jpg",
                     "title": "",
                     "description": ""
                 },
                 {
-                    "image": "",
+                    "image": "2526garuween7.JPG",
                     "title": "",
                     "description": ""
                 }
             ],
-            "hero": "" 
+            "hero": "2526garuween5.JPG" 
             }
         }
     },
     {
-        "title": "Garumas",
+        "title": "formaldinner",
         "subtitle": "Subtitle event 3",
-        "displayImage": "image3.png",
+        "displayImage": "2526formaldinner2.JPG",
         "years": {
             "AY 24/25": {
+                "yearTitle": "Formal Dinner",
                 "description": "Its that time of the year for all things red, Mariah Carey and gift-giving! Perfect opportunity to ask your friends for what you want, not what you need :) ",
                 "images": [  
                     "gmas1.jpg",
@@ -155,31 +160,32 @@
                 "hero": "image3.png" 
             },
             "AY 25/26": {
+                "yearTitle": "Formal Dinner",
                 "description": "",
                 "images": [ 
-                    "",
-                    "",
-                    "",
-                    ""
+                    "2526formaldinner6.JPG",
+                    "2526formaldinner5.jpg",
+                    "2526formaldinner3.JPG",
+                    "2526formaldinner2.JPG"
                 ],
                 "highlights": [ 
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526formaldinner8.JPG",
+                        "title": "level 9",
                         "description": ""
                     },
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526formaldinner1.JPG",
+                        "title": "level 10",
                         "description": ""
                     },
                     {
-                        "image": "",
-                        "title": "",
+                        "image": "2526formaldinner7.JPG",
+                        "title": "level 11",
                         "description": ""
                     }
                 ],
-                "hero": "" 
+                "hero": "2526formaldinner4.JPG" 
             }
         }
     },
@@ -189,6 +195,7 @@
         "displayImage": "image4.png",
         "years": {
             "AY 24/25": {
+                "yearTitle": "Welcome Back Dinner",
                 "description": "Get ready to kickstart the new semester with good food, exquitsite performance and dress up as your favourite character with your friends!",
                 "images": [ 
                     "wbd1.jpg",
@@ -216,12 +223,14 @@
                 "hero": "image4.png" 
             },
             "AY 25/26": {
+                "yearTitle": "Welcome Back Dinner",
+                "yearTitle": "",
                 "description": "",
                 "images": [
                     "",
+                    "2526wbd1.JPG",
                     "",
-                    "",
-                    ""
+                    "2526wbd2.JPG"
                 ],
                 "highlights": [
                     {
@@ -250,6 +259,7 @@
         "displayImage": "ggg2.jpg",
         "years": {
             "AY 24/25": {
+                "yearTitle": "Garu Got Groove",
                 "description": "Garuda's very own talent show! Show off your singing, dancing, acting or even your ASMR eating skills in this star-studded event ! The vibes are truly immaculate tonight as everyone comes together to put up a solid and memorable performance.",
                 "images": [ 
                     "ggg2.jpg",
@@ -277,6 +287,7 @@
                 "hero": "ggg2.jpg" 
             },
             "AY 25/26": {
+                "yearTitle": "Garu Got Groove",
                 "description": "",
                 "images": [ 
                     "",
@@ -301,7 +312,7 @@
                         "description": ""
                     }
                 ],
-                "hero": "ggg2.jpg" 
+                "hero": "" 
             }
         }
     }

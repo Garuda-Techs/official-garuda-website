@@ -49,9 +49,9 @@ import "swiper/css/pagination";
 export default function EventsBanner() {
   return (
     <div className="relative w-full max-w-6xl mx-auto py-12 px-6 lg:px-12">
-      <Swiper
+        <Swiper
         effect="coverflow"
-        mousewheel={{ forceToAxis: true }} // enables trackpad / wheel scroll
+          mousewheel={{ forceToAxis: true }} // enables trackpad / wheel scroll
         modules={[EffectCoverflow, Pagination, Mousewheel]}
         grabCursor={true}                  // optional visual cue
         centeredSlides={true}
